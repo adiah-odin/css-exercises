@@ -20,5 +20,6 @@ button {
 }
 
 button:hover {
-  scale: 1.25;
+  /* scale: 1.25; */
+  transform: scale(1.25);
 }
